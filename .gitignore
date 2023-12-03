@@ -19,3 +19,6 @@ ehthumbs.db
 Thumbs.db
 /captures/
 /.idea/
+/build.gradle.kts
+/settings.gradle.kts
+/proguard-rules.pro
